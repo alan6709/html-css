@@ -1,0 +1,17 @@
+@charset "UTF-8"
+
+style>
+body {lighting-color: aqua;
+    font-family:fantasy ;
+    font-size: 20px;
+
+}
+h1 {color: brown;
+    background-color:lightblue;
+    text-align: center;
+
+}
+p {
+    text-align: justify;
+}
+</style>

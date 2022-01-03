@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    background-color: #73D2DE;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.principal {
+    text-align: center;
+    color: #D81159;
+    background-color: #FBB13C;
+}
+.titulo_secundario {color: #8F2D56;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(13, 13, 102);
+}
+p   {
+    text-align: justify;
+}
+
+.basico{
+   color: rgb(13, 13, 102);
+
+}
+.intermediario{
+   color: #8f852d;
+}
+.avançado{
+    color: #8f2d2d;
+}
+
+.destaque{
+    background-color: yellow;
+}
